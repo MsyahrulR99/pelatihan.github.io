@@ -1,0 +1,34 @@
+ 
+      .betwen {
+        position: relative;
+        display: flex;
+      }
+      
+      .buzof {
+        position: relative;
+        display: flex;
+       
+      }
+
+      .vibes {
+      position: relative;
+      display: grid;
+     
+      }
+      .write {
+        position: relative;
+        display: flex;
+      }
+
+      .fluid {
+        position: relative;
+        display: flex;
+        
+      }
+
+      .container {
+          width: 250px;
+          border-top: 3px solid rgb(170, 121, 121);
+          color: aqua;
+      }
+      
